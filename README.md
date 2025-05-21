@@ -8,3 +8,6 @@ Example
 Then right click run in Powershell.
 
 Note: The Build Buy mod folder should be renamed before running to remove the special characters  
+
+
+Fix EA Sims 4 Mod folder when moving it from a MAC to a Windows PC
